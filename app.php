@@ -3,6 +3,7 @@
     <meta charset="UTF-8">
     <title>Discord PHP</title>
     <link rel="stylesheet" href="css/main.css">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <style>
     </style>
 </head>
